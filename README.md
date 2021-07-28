@@ -3,7 +3,9 @@
 ## Analysis of the New York City citibike business  
 
 ### Overview of the analysis:  
-
+  
+[Link to dashboard](https://public.tableau.com/app/profile/charlie.willmore/viz/Citibike_challenge_16273094123250/NYCCitiBikesanalogforDesMoines?publish=yes)
+  
 Data for the month of August 2019 usership of the citibikes in New York City are interpreted as an analog for a proposed citibike program in Des Moines.  The New York CIty dataset contains data for each bike ride including:  
 1. Starting and ending time  
 2. Starting and ending station location  
